@@ -22,6 +22,6 @@ LeetCode is not just about coding; it's a mindset. It's about turning obstacles 
 - ...
 
 ## 🌐 Connect
-Let's connect, code, and conquer these challenges together! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yesitsyash) or drop me an email at [your.email@example.com](mailto:yesitsyash43@gmail.com).
+Let's connect, code, and conquer these challenges together! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yesitsyash) or drop me an email at (mailto:yesitsyash43@gmail.com).
 
 Happy coding! 🚀🔥
